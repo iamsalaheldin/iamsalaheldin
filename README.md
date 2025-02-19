@@ -19,6 +19,11 @@
 <h3 align="left">🔭 Projects I've Worked On:</h3>
 <ul>
   <li>
+    <a href="https://github.com/iamsalaheldin/AITestAutomationAgent" target="_blank"><strong>AITestAutomationAgent</strong></a> 
+    - A cutting-edge AI-driven test automation framework integrating intelligent test execution, self-healing capabilities, and AI-powered test insights.  
+    <strong>Technologies Used:</strong> Google Gemini AI, LangChain, Python, Playwright, Selenium.
+  </li>
+  <li>
     <a href="https://github.com/iamsalaheldin/NativeSeleniumAutomationExercise" target="_blank"><strong>NativeSeleniumAutomationExercise</strong></a> 
     - A hands-on project showcasing Selenium-based automation for web applications, focusing on end-to-end testing, browser compatibility, and test optimization.  
     <strong>Technologies Used:</strong> Selenium, Java, TestNG.
@@ -28,6 +33,7 @@
     - Explore all my repositories, including test automation scripts, frameworks, and utilities, built with tools like Selenium, Playwright, TestNG, RestAssured, and Robot Framework.
   </li>
 </ul>
+
 
 <h3 align="left">📝 Featured Articles:</h3>
 <ul>
