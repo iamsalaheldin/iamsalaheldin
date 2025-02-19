@@ -19,7 +19,7 @@
 <h3 align="left">🔭 Projects I've Worked On:</h3>
 <ul>
   <li>
-    <a href="https://github.com/iamsalaheldin/AITestAutomationAgent" target="_blank"><strong>AITestAutomationAgent</strong></a> 
+    <a href="https://github.com/iamsalaheldin/AITestAuotmationAgent" target="_blank"><strong>AITestAutomationAgent</strong></a> 
     - A cutting-edge AI-driven test automation framework integrating intelligent test execution, self-healing capabilities, and AI-powered test insights.  
     <strong>Technologies Used:</strong> Google Gemini AI, LangChain, Python, Playwright, Selenium.
   </li>
